@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pumejwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-11T10:20:36.223020695-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 91f26ef834a5653d2999d3224367858f86a7315497350de11e97d96fbb8b3c24
+    name: pumejwebapp
+    type: application
+    urls:
+    - pumejwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-11T10:20:36.190073869-05:00"
